@@ -61,12 +61,3 @@ print(longest_value(fruits))   # Output: 'apple'
 ```
 
 Even though both `"apple"` and `"green"` are the same length, `"apple"` comes first in the dictionary — so it is returned.
-
-
-
-### 🔁 In Summary:
-
-* This function finds and returns the **longest value** in a dictionary.
-* If there’s a tie, it returns the **first longest** (based on the dictionary's order).
-
-Let me know if you'd like to modify it to return all longest values in case of a tie.
